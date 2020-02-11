@@ -102,7 +102,7 @@ The following is the process you need to follow:
 
 ---
 
-- In general, follow the [Google Common Lisp Style Guide](https://google-styleguide.googlecode.com/svn/trunk/lispguide.xml).
+- In general, follow the [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml).
 - `CL-NLP` uses heavily utilities and syntactic extensions from
   [RUTILS](http://github.com/vseloved/rutils).
   Using the "normal" CL things for the same stuff in new code is OK,
